@@ -1,5 +1,3 @@
-import javax.lang.model.util.ElementScanner14;
-
 class Day3 {
     public static void main(String[] args){
         int Marks = 65;
