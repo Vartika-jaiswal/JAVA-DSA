@@ -1,4 +1,4 @@
-class Day_4 {
+class Day_5 {
     public static void main(String[] args){
         int a = 4;
         int b = 6;
