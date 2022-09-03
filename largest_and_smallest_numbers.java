@@ -8,7 +8,7 @@ public class largest_and_smallest_numbers {
         int largest = Integer.MIN_VALUE;
         int smallest = Integer.MAX_VALUE;
         for(int i=0;i<n;i++){
-            System.out.printf("please enter %d numbers %n",n);
+            System.out.printf("please enter %d numbers ",n);
             int current = sc.nextInt();
             if(current>largest){
                 largest = current;

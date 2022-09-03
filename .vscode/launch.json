@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch sum_of_the_series",
+            "request": "launch",
+            "mainClass": "sum_of_the_series",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch largest_and_smallest_numbers",
             "request": "launch",
             "mainClass": "largest_and_smallest_numbers",
