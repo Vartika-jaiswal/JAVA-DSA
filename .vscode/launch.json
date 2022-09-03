@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Series_sum",
+            "request": "launch",
+            "mainClass": "Series_sum",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum_of_the_series2",
+            "request": "launch",
+            "mainClass": "Sum_of_the_series2",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch sum_of_the_series",
             "request": "launch",
             "mainClass": "sum_of_the_series",
