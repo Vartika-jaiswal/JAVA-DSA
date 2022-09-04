@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Count_of_positve_negative_and_zeroes",
+            "request": "launch",
+            "mainClass": "Count_of_positve_negative_and_zeroes",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day_3",
+            "request": "launch",
+            "mainClass": "Day_3",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day_4",
+            "request": "launch",
+            "mainClass": "Day_4",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci_series",
+            "request": "launch",
+            "mainClass": "Fibonacci_series",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
+            "name": "Launch helloworld",
+            "request": "launch",
+            "mainClass": "helloworld",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        }
+    ]
+}
