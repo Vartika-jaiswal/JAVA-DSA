@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch add_numbers_using_return_values",
+            "request": "launch",
+            "mainClass": "add_numbers_using_return_values",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch print_spartaa",
             "request": "launch",
             "mainClass": "print_spartaa",
