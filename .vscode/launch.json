@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch add_two_numbers",
+            "request": "launch",
+            "mainClass": "add_two_numbers",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch Guess_the_random_number",
             "request": "launch",
             "mainClass": "Guess_the_random_number",
