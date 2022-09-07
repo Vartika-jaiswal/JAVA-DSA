@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch voting_age_program",
+            "request": "launch",
+            "mainClass": "voting_age_program",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch odd_even_using_function",
             "request": "launch",
             "mainClass": "odd_even_using_function",
