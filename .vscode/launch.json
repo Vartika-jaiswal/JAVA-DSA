@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch odd_even_using_function",
+            "request": "launch",
+            "mainClass": "odd_even_using_function",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch area_of_rectangle_and_circle",
             "request": "launch",
             "mainClass": "area_of_rectangle_and_circle",
