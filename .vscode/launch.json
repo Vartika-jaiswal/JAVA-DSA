@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch number_is_prime_functions",
+            "request": "launch",
+            "mainClass": "number_is_prime_functions",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch product_of_numbers_functions",
             "request": "launch",
             "mainClass": "product_of_numbers_functions",
