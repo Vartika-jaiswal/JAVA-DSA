@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch product_of_numbers_functions",
+            "request": "launch",
+            "mainClass": "product_of_numbers_functions",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch sum_of_two_numbers_using_function",
             "request": "launch",
             "mainClass": "sum_of_two_numbers_using_function",
