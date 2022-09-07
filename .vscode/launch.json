@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch sum_of_two_numbers_using_function",
+            "request": "launch",
+            "mainClass": "sum_of_two_numbers_using_function",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch voting_age_program",
             "request": "launch",
             "mainClass": "voting_age_program",
