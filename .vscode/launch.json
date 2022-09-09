@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FactorialExample2",
+            "request": "launch",
+            "mainClass": "FactorialExample2",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial_function",
+            "request": "launch",
+            "mainClass": "factorial_function",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch marks_grades_functions",
             "request": "launch",
             "mainClass": "marks_grades_functions",
