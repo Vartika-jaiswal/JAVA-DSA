@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Pythagorean_triplet",
+            "request": "launch",
+            "mainClass": "Pythagorean_triplet",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch palindrome_function",
             "request": "launch",
             "mainClass": "palindrome_function",
