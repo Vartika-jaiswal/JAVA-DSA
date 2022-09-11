@@ -6,6 +6,7 @@ public class prime {
        int start = s.nextInt();  
        System.out.print("Enter the second number : ");  
        int end = s.nextInt();  
+       s.close();
        System.out.println("List of prime numbers between " + start + " and " + end);  
        for (int i = start; i <= end; i++) {  
            if (isPrime(i)) {  

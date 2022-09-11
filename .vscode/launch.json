@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch prime_1to100_and_count",
+            "request": "launch",
+            "mainClass": "prime_1to100_and_count",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
+            "name": "Launch prime_1to100",
+            "request": "launch",
+            "mainClass": "prime_1to100",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch prime",
             "request": "launch",
             "mainClass": "prime",
