@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch multipication_of_a_digits",
+            "request": "launch",
+            "mainClass": "multipication_of_a_digits",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch sum_of_digits_of_given_number",
             "request": "launch",
             "mainClass": "sum_of_digits_of_given_number",
