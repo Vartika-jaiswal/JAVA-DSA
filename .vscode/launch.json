@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch leap_year",
+            "request": "launch",
+            "mainClass": "leap_year",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch prime_1to100_and_count",
             "request": "launch",
             "mainClass": "prime_1to100_and_count",
