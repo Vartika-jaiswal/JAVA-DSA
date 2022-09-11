@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Factors_of_a_number",
+            "request": "launch",
+            "mainClass": "Factors_of_a_number",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch multipication_of_a_digits",
             "request": "launch",
             "mainClass": "multipication_of_a_digits",
