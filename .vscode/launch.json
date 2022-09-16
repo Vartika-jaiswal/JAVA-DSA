@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch multidimensional_array",
+            "request": "launch",
+            "mainClass": "multidimensional_array",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch add_two_numbers_in_array",
             "request": "launch",
             "mainClass": "add_two_numbers_in_array",
