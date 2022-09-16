@@ -8,6 +8,8 @@ public class sum_of_two_numbers_using_function {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter second no.:");
         int n2 = scan.nextInt();
+        sc.close();
+        scan.close();
         add(n1,n2);
 
     }public static void add(int n1 , int n2){

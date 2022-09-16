@@ -1,7 +1,7 @@
 public class area_of_rectangle_and_circle {
     public static void main(String[] args){
-        int l = 10;
-        int w = 50;
+        int n1 = 10;
+        int n2 = 50;
         float r = 2.5f;
         int rectangle_area = area(10,50);
         float circle_area = area(r);

@@ -7,6 +7,8 @@ public class product_of_numbers_functions {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter second no.:");
         int n2 = scan.nextInt();
+        sc.close();
+        scan.close();
         mul(n1,n2);
 
     }public static void mul(int n1 , int n2){

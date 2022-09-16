@@ -9,6 +9,7 @@ public class Count_of_positve_negative_and_zeroes
 	    Scanner sc = new Scanner(System.in);
 	    System.out.println("enter the integers:");
 	   int n = sc.nextInt();
+	   sc.close();
 	    
 	    while(n<=100){
 	        System.out.println("enter the integers:");

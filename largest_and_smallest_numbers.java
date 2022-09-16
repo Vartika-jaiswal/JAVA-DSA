@@ -5,6 +5,7 @@ public class largest_and_smallest_numbers {
         System.out.println("Please enter N:");
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
+        sc.close();
         int largest = Integer.MIN_VALUE;
         int smallest = Integer.MAX_VALUE;
         for(int i=0;i<n;i++){

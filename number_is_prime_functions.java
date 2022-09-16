@@ -4,6 +4,7 @@ public class number_is_prime_functions {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the no.:");
         int n = sc.nextInt();
+        sc.close();
         prime(n);
         
     }public static void prime(int n){

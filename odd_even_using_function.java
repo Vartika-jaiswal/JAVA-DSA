@@ -5,6 +5,7 @@ public class odd_even_using_function {
         Scanner scan=new Scanner(System.in);
         System.out.print("Enter the number for check odd or even: ");
         int num=scan.nextInt();
+        scan.close();
         
         find_Oddeven(num);
         }

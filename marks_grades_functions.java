@@ -5,6 +5,7 @@ public class marks_grades_functions {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter your marks:");
         int n = sc.nextInt();
+        sc.close();
         marks(n);
     }public static void marks(int n){
         if(n<=40){
