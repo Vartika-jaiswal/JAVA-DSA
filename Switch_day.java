@@ -28,6 +28,8 @@ public class Switch_day {
             case 7:
             System.out.println("Sunday");
             break;
+            default :
+            System.out.println("looking forward to the weekend!");
         }
     }
 }
