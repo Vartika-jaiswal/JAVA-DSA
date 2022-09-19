@@ -5,6 +5,6 @@ public class sum_of_values_array {
         for(int i:a){
             sum=sum+i;
             
-        }System.out.println("The sum of given values is:"+sum);
+        }System.out.println("The mul of given values is:"+sum);
     }
 }

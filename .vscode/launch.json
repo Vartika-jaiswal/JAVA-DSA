@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch average_value_array",
+            "request": "launch",
+            "mainClass": "average_value_array",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch multiplication_of_values",
             "request": "launch",
             "mainClass": "multiplication_of_values",
