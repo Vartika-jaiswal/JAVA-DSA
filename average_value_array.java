@@ -5,10 +5,10 @@ public class average_value_array {
         averagevalue(array,n);
     }public static void averagevalue(double array[],int n){
         double sum = 0 ;
-        double result = 0;
+        double Average = 0;
         for(int i=0;i<n;i++){
             sum+=array[i];
-             result = sum/n;
-        } System.out.println("The average of the given values in array is"+result);
+             Average = sum/n;
+        } System.out.println("The average of the given values in array is"+Average);
     }
 }
