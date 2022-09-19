@@ -10,7 +10,7 @@ public class add_two_numbers_in_array {
         }
         for(int i=0;i<5;i++){
             b[i] = num;
-            ++num;
+            num++;
         }System.out.println("Values in array A:");
         for(int i=0;i<5;i++){
             System.out.print(a[i] + " ");
