@@ -5,6 +5,6 @@ public class multiplication_of_values_array {
         for(int i:a){
             mul=mul*i;
             
-        }System.out.println("The sum of given values is:"+mul);
+        }System.out.println("The mul of given values is:"+mul);
     }
 }
