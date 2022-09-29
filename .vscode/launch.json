@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch max_min_array",
+            "request": "launch",
+            "mainClass": "max_min_array",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch average_value_array",
             "request": "launch",
             "mainClass": "average_value_array",
