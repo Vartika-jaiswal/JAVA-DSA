@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch peak",
+            "request": "launch",
+            "mainClass": "peak",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
+            "name": "Launch peak_array",
+            "request": "launch",
+            "mainClass": "peak_array",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch max_min_array",
             "request": "launch",
             "mainClass": "max_min_array",
