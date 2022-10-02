@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch reverse_array",
+            "request": "launch",
+            "mainClass": "reverse_array",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch peak",
             "request": "launch",
             "mainClass": "peak",
