@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch factorial_recurssion",
+            "request": "launch",
+            "mainClass": "factorial_recurssion",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch sort_array",
             "request": "launch",
             "mainClass": "sort_array",
