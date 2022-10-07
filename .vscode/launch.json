@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch bubble_sort",
+            "request": "launch",
+            "mainClass": "bubble_sort",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch prime_number",
             "request": "launch",
             "mainClass": "prime_number",
