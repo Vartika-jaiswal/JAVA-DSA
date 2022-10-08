@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Selection_sort_string_array",
+            "request": "launch",
+            "mainClass": "Selection_sort_string_array",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch selection_sort",
             "request": "launch",
             "mainClass": "selection_sort",
