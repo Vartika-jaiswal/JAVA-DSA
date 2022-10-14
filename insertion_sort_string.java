@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class insertion_sort_string {
     public static void main(String[] arg){
         Scanner sc = new Scanner(System.in);
