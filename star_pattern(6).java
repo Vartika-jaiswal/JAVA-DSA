@@ -16,7 +16,7 @@ star pattern 6*/
         }for(int k=0;k<=i;k++){
             System.out.print(" *");
         }System.out.println();
-    }
+    }sc.close();
 }
  }
 
