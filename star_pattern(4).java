@@ -6,7 +6,7 @@
        *
 star pattern 4*/
 import java.util.Scanner;
- class star_pattern
+ class star_pattern4
 {
 	public static void main(String[] args) {
 	    Scanner sc = new Scanner(System.in);

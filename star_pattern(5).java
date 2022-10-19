@@ -10,7 +10,7 @@
     *
 star pattern 5*/
 import java.util.Scanner;
-  class star_pattern
+  class star_pattern5
 {
 	public static void main(String[] args) {
 	    Scanner sc = new Scanner(System.in);
