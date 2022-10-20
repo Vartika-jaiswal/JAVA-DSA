@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch star_pattern9",
+            "request": "launch",
+            "mainClass": "star_pattern9",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch star_pattern8",
             "request": "launch",
             "mainClass": "star_pattern8",
