@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch swap_elemnts_in_array",
+            "request": "launch",
+            "mainClass": "swap_elemnts_in_array",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch anonymous_array_sum",
             "request": "launch",
             "mainClass": "anonymous_array_sum",
