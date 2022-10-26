@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch binary_search_stringarray",
+            "request": "launch",
+            "mainClass": "binary_search_stringarray",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary_search_array",
+            "request": "launch",
+            "mainClass": "Binary_search_array",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
+            "name": "Launch peak_arrayfunction",
+            "request": "launch",
+            "mainClass": "peak_arrayfunction",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch swap_elemnts_in_array",
             "request": "launch",
             "mainClass": "swap_elemnts_in_array",
