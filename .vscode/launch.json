@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch maximum_elelment_stringarray",
+            "request": "launch",
+            "mainClass": "maximum_elelment_stringarray",
+            "projectName": "100-days-java-challenge_6a3f8958"
+        },
+        {
+            "type": "java",
             "name": "Launch maximum_element_array",
             "request": "launch",
             "mainClass": "maximum_element_array",
