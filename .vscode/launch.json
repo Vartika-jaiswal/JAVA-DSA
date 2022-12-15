@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch variable_length_arguments",
+            "request": "launch",
+            "mainClass": "Functions.variable_length_arguments",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
+            "name": "Launch swap",
+            "request": "launch",
+            "mainClass": "Functions.swap",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Launch Stringfunction",
             "request": "launch",
             "mainClass": "Functions.Stringfunction",
