@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Salary",
+            "request": "launch",
+            "mainClass": "condition_and_loops.Salary",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Launch Prime",
             "request": "launch",
             "mainClass": "condition_and_loops.Prime",
