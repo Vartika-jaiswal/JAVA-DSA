@@ -5,8 +5,12 @@ import java.util.Scanner;
 public class Prime {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
+        System.out.println("Enter the number:");
         int num=sc.nextInt();
         int flag=0;
+        if(num<=1){
+         System.out.println("It is niehter Prime nor composite:");
+        }
          for(int i=2;i<num;i++){  
             if(num%i==0){
             System.out.println("number is not prime");
@@ -14,7 +18,7 @@ public class Prime {
             break;
             }
          } if(flag==0){
-            System.out.println("num is prime");
+            System.out.println("number is prime");
          }sc.close();
 }
 }
