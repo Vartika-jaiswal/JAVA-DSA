@@ -1,4 +1,4 @@
-package condition_and_loops;
+package Functions;
 
 import java.util.Scanner;
 
@@ -16,5 +16,6 @@ public class Fibonacci {
             a=temp;
             count++;
         }System.out.println("The fibonacci number at index "+n+"th is:"+b);
+        sc.close();
     }
 }
