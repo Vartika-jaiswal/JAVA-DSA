@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Day",
+            "request": "launch",
+            "mainClass": "Switch_statement.Day",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fruits",
+            "request": "launch",
+            "mainClass": "Switch_statement.Fruits",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fruits",
+            "request": "launch",
+            "mainClass": "Fruits",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Launch temperature_conversion",
             "request": "launch",
             "mainClass": "condition_and_loops.temperature_conversion",
