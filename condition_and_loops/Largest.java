@@ -1,4 +1,4 @@
-package Functions;
+package condition_and_loops;
 
 import java.util.Scanner;
 
