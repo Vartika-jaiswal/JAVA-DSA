@@ -11,7 +11,9 @@ public class Arraylistinput {
             list.add(sc.nextInt());
         }
         for(int i=0;i<5;i++){
-            System.out.println(list.get(i));
+            System.out.print(list.get(i));
         }
+        System.out.println(list);
+        sc.close();
     }
 }

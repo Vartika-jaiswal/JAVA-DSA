@@ -8,6 +8,8 @@ public class Arraylists {
         list.add(5);
         list.add(6);
         list.add(78);
+        list.add(63);
+        list.add(8);
         System.out.println(list);
         System.out.println(list.contains(67));
         list.set(1,54);
