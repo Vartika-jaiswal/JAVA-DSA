@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SearchInStrings",
+            "request": "launch",
+            "mainClass": "Arrays.Linear_search.SearchInStrings",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Launch code_for_linearsearch",
             "request": "launch",
             "mainClass": "Arrays.Linear_search.code_for_linearsearch",
