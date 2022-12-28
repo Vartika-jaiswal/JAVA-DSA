@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch maximumwealth",
+            "request": "launch",
+            "mainClass": "Arrays.Linear_search.maximumwealth",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
+            "name": "Launch Even_number_of_digits",
+            "request": "launch",
+            "mainClass": "Arrays.Linear_search.Even_number_of_digits",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
+            "name": "Launch maximumvalue_in_2Darray",
+            "request": "launch",
+            "mainClass": "Arrays.Linear_search.maximumvalue_in_2Darray",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
+            "name": "Launch linearsearch_in_2Darray",
+            "request": "launch",
+            "mainClass": "Arrays.Linear_search.linearsearch_in_2Darray",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
+            "name": "Launch minimum_number",
+            "request": "launch",
+            "mainClass": "Arrays.Linear_search.minimum_number",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search_in_range",
+            "request": "launch",
+            "mainClass": "Arrays.Linear_search.Search_in_range",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Launch SearchInStrings",
             "request": "launch",
             "mainClass": "Arrays.Linear_search.SearchInStrings",
