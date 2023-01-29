@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch richestpersonarray",
+            "request": "launch",
+            "mainClass": "Arrays.richestpersonarray",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Launch runningsumarray",
             "request": "launch",
             "mainClass": "Arrays.runningsumarray",
