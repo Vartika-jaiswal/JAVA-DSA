@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch diagnolsum",
+            "request": "launch",
+            "mainClass": "Arrays.diagnolsum",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Launch cells_with_odd_values_in_matrix",
             "request": "launch",
             "mainClass": "Arrays.cells_with_odd_values_in_matrix",
