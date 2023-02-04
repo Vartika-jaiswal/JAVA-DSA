@@ -37,6 +37,8 @@ public class Spiral_matrix_II {
                 d=0;l++;
             }
         }
-        System.out.println(Arrays.toString(matrix));
+       for(int i=0;i<matrix.length;i++){
+        System.out.println(Arrays.toString(matrix[i]));
+       }
     }
 }
