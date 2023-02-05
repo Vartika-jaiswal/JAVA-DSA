@@ -2,7 +2,7 @@ package Arrays;
 
 public class findeven_num_of_digits {
     public static void main(String[] args) {
-        int[] nums={555,901,482,1771};
+        int[] nums={555,901,482,1772};
         System.out.println(findnumbers(nums));
     }
     static int findnumbers(int[] nums){
