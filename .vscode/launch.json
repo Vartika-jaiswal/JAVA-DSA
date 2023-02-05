@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch findeven_num_of_digits",
+            "request": "launch",
+            "mainClass": "Arrays.findeven_num_of_digits",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Launch Spiral_matrix_II",
             "request": "launch",
             "mainClass": "Arrays.Spiral_matrix_II",
