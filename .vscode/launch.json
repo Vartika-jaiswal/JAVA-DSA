@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Product_array_exceptself",
+            "request": "launch",
+            "mainClass": "Arrays.Product_array_exceptself",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Launch findeven_num_of_digits",
             "request": "launch",
             "mainClass": "Arrays.findeven_num_of_digits",
