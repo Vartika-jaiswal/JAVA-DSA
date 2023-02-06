@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch first_last_position_of_element",
+            "request": "launch",
+            "mainClass": "Arrays.first_last_position_of_element",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Launch Product_array_exceptself",
             "request": "launch",
             "mainClass": "Arrays.Product_array_exceptself",
