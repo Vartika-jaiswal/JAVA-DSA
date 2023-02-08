@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Rotate_array",
+            "request": "launch",
+            "mainClass": "Arrays.Rotate_array",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jump_game",
+            "request": "launch",
+            "mainClass": "Arrays.Jump_game",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Launch First_last_position_of_element_optimized",
             "request": "launch",
             "mainClass": "Arrays.Binary_search.First_last_position_of_element_optimized",
