@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Sortcolors",
+            "request": "launch",
+            "mainClass": "Arrays.Sorting.Sortcolors",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Launch Rotate_array_optimized",
             "request": "launch",
             "mainClass": "Arrays.Rotate_array_optimized",
