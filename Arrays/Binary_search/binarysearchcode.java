@@ -1,3 +1,5 @@
+package Arrays.Binary_search;
+
 public class binarysearchcode {
     public static void main(String[] args) {
         int [] arr={-14,-12,-8,-4,0,2,4,6,9,11,12,14,20,36,48};

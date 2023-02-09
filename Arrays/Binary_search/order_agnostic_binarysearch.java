@@ -1,3 +1,5 @@
+package Arrays.Binary_search;
+
 public class order_agnostic_binarysearch {
     public static void main(String[] args) {
         int target=45;
