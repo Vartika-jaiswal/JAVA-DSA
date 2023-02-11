@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Find_Missing_positive",
+            "request": "launch",
+            "mainClass": "Arrays.Find_Missing_positive",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Launch House_robber_optimized",
             "request": "launch",
             "mainClass": "Arrays.House_robber_optimized",
