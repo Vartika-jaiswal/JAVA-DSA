@@ -19,7 +19,6 @@ public class Find_Missing_positive {
         for(int i=0;i<n;i++){
             if(i+1!=nums[i]){
                 System.out.println(i+1);
-                break;
             }
         }
     }
