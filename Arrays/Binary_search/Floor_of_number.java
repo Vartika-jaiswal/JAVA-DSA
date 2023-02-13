@@ -3,7 +3,8 @@ package Arrays.Binary_search;
 public class Floor_of_number {
     public static void main(String[] args) {
         int [] arr={2,3,5,9,14,16,18};
-        System.out.println(Floor(arr,15));
+        int ans=Floor(arr,15);
+        System.out.println(ans);
    }
    static int Floor(int arr[],int target){
        int start=0;
