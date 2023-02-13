@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Floor_of_number",
+            "request": "launch",
+            "mainClass": "Arrays.Binary_search.Floor_of_number",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ceiling_of_a_number",
+            "request": "launch",
+            "mainClass": "Arrays.Binary_search.Ceiling_of_a_number",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Launch Good_array",
             "request": "launch",
             "mainClass": "Arrays.Good_array",
