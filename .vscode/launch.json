@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch First_and_last_position_II",
+            "request": "launch",
+            "mainClass": "Arrays.Binary_search.First_and_last_position_II",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Launch Smallest_letter",
             "request": "launch",
             "mainClass": "Arrays.Binary_search.Smallest_letter",
