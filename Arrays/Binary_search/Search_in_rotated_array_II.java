@@ -1,14 +1,12 @@
 package Arrays.Binary_search;
 
-public class Search_in_rotated_array {
-    
-
-public static void main(String[] args) {
-        int[] nums={4,5,6,7,0,1,2};
+public class Search_in_rotated_array_II {
+    public static void main(String[] args) {
+        int[] nums={2,5,6,0,0,1,2};
         int target=0;
         System.out.println(search(nums,target));
     }static int search(int[] nums, int target) {
-        int pivot = findPivot(nums);
+        int pivot = findPivotWithduplicates(nums);
 
         // if you did not find a pivot, it means the array is not rotated
         if (pivot == -1) {
@@ -47,23 +45,33 @@ public static void main(String[] args) {
     }
 
     // this will not work in duplicate values
-    static int findPivot(int[] arr) {
+    static int findPivotWithduplicates(int[] arr) {
         int start = 0;
         int end = arr.length - 1;
         while (start <= end) {
             int mid = start + (end - start) / 2;
-            // 4 cases over here
+           
             if (mid < end && arr[mid] > arr[mid + 1]) {
                 return mid;
             }
             if (mid > start && arr[mid] < arr[mid - 1]) {
                 return mid-1;
             }
-            if (arr[mid] <= arr[start]) {
-                end = mid - 1;
-            } else {
-                start = mid + 1;
+           if(arr[mid]==arr[start] && arr[mid]==arr[end]){
+            if(arr[start]>arr[start+1]){
+                return start;
             }
+            start++;
+            if(arr[end]<arr[end-1]){
+                return end-1;
+            }
+            end--;
+           }
+           else if(arr[start]<arr[mid] || (arr[start]==arr[mid] && arr[mid]>arr[end])){
+            start=mid+1;
+           }else{
+            end=mid-1;
+           }
         }
         return -1;
     }
