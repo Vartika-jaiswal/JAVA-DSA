@@ -10,7 +10,7 @@ public class binarysearch_in_2D_array {
             {28,29,37,49},
             {33,34,38,50}
         };
-        System.out.println(Arrays.toString(search(matrix, 37)));
+        System.out.println(Arrays.toString(search(matrix, 49)));
 
     }
     static int[] search(int[][] matrix,int target){
