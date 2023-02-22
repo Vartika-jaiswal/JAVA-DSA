@@ -5,15 +5,15 @@ package Arrays.Binary_search;
         int x=8;
         System.out.println(binarysearch(x));
     }
-    public static int binarysearch(int n){
+    public static int binarysearch(int num){
         int start=1;
-        int end=n;
+        int end=num;
           int ans=0;
         while(start<=end){
              int mid=start+(end-start)/2;
             
            
-            if(mid<=n/mid){
+            if(mid<=num/mid){
                 ans=mid;
                 start=mid+1;
         }else{
