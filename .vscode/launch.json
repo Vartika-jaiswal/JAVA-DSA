@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Guess_number_higher_lower",
+            "request": "launch",
+            "mainClass": "Arrays.Binary_search.Guess_number_higher_lower",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Launch square_root",
             "request": "launch",
             "mainClass": "Arrays.Binary_search.square_root",
