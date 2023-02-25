@@ -11,13 +11,13 @@ public class Two_SumII {
     }
     public static int[] twoSum(int[] numbers, int target) {
         int s=0;
-        int e=numbers.length-1;
-        while(s<e){
-            if(numbers[s]+numbers[e]==target){
-                return new int[]{s+1,e+1};
+        int end=numbers.length-1;
+        while(s<end){
+            if(numbers[s]+numbers[end]==target){
+                return new int[]{s+1,end+1};
             }
-            else if(numbers[s]+numbers[e]>target){
-                e--;
+            else if(numbers[s]+numbers[end]>target){
+                end--;
             }else{
                 s++;
             }
