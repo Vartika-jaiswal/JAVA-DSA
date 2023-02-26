@@ -10,16 +10,16 @@ public class Two_SumII {
         
     }
     public static int[] twoSum(int[] numbers, int target) {
-        int s=0;
+        int start=0;
         int end=numbers.length-1;
-        while(s<end){
-            if(numbers[s]+numbers[end]==target){
-                return new int[]{s+1,end+1};
+        while(start<end){
+            if(numbers[start]+numbers[end]==target){
+                return new int[]{start+1,end+1};
             }
-            else if(numbers[s]+numbers[end]>target){
+            else if(numbers[start]+numbers[end]>target){
                 end--;
             }else{
-                s++;
+                start++;
             }
         }
         return new int[]{-1,-1};
