@@ -2,8 +2,8 @@ package Arrays.Binary_search;
 
  class square_root {
     public static void main(String[] args) {
-        int x=8;
-        System.out.println(binarysearch(x));
+        int z=8;
+        System.out.println(binarysearch(z));
     }
     public static int binarysearch(int num){
         int start=1;
