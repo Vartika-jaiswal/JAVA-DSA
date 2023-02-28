@@ -3,7 +3,7 @@ package Arrays.Binary_search;
 public class Ceiling_of_a_number {
     public static void main(String[] args) {
         int [] arr={2,3,5,9,14,16,18};
-        int ans=Ceiling(arr,15);
+        int ans=Ceiling(arr,14);
         System.out.println(ans);
    }
    static int Ceiling(int arr[],int target){
