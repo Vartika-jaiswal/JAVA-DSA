@@ -2,7 +2,7 @@ package Arrays.Binary_search;
 
 public class Rotation_count {
     public static void main(String[] args) {
-        int[] arr={4,5,6,7,0,1,2};
+        int[] arr={6,5,6,7,0,1,2};
         System.out.println(countRotations(arr));
     }
     public static int countRotations(int[] arr){
