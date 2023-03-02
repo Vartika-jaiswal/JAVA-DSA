@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Kth_missing_positive_number",
+            "request": "launch",
+            "mainClass": "Arrays.Binary_search.Kth_missing_positive_number",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Arranging_Coins2",
             "request": "launch",
             "mainClass": "Arrays.Binary_search.Arranging_Coins2",
