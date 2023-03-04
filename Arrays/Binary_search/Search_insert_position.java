@@ -2,7 +2,7 @@ package Arrays.Binary_search;
 
 public class Search_insert_position {
     public static void main(String[] args) {
-        int[] nums={1,3,5,6};
+        int[] nums={1,4,5,6};
         int target=2;
         System.out.println(searchInsert(nums, target));
     }
