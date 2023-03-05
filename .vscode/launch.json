@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Intersection_of_two_arrays",
+            "request": "launch",
+            "mainClass": "Arrays.Binary_search.Intersection_of_two_arrays",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Search_insert_position",
             "request": "launch",
             "mainClass": "Arrays.Binary_search.Search_insert_position",
