@@ -2,7 +2,7 @@ package Arrays.Binary_search;
 
 public class Arranging_Coins2 {
     public static void main(String[] args) {
-        int n=5;
+        int n=3;
          System.out.println(arrangeCoins( n));
     } 
     public static int arrangeCoins(int n) {
