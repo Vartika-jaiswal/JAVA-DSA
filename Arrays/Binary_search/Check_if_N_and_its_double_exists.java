@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Check_if_N_and_its_double_exists {
     public static void main(String[] args) {
-        int [] arr={10,2,5,4};
+        int [] arr={10,2,5,3};
         System.out.println(checkIfExist(arr));
     }
     public static boolean checkIfExist(int[] arr) {
