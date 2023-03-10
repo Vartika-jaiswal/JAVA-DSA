@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Special_arr_with_x_elements_greater_than_or_equal_to_x",
+            "request": "launch",
+            "mainClass": "Arrays.Binary_search.Special_arr_with_x_elements_greater_than_or_equal_to_x",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Check_if_N_and_its_double_exists",
             "request": "launch",
             "mainClass": "Arrays.Binary_search.Check_if_N_and_its_double_exists",
