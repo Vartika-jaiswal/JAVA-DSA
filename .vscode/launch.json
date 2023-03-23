@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Selection_Sort",
+            "request": "launch",
+            "mainClass": "Arrays.Sorting.Selection_Sort",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Bubble_sort",
             "request": "launch",
             "mainClass": "Arrays.Sorting.Bubble_sort",
