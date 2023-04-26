@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "String_comparison",
+            "request": "launch",
+            "mainClass": "Arrays.String.String_comparison",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
+            "name": "Duplicate_numbers",
+            "request": "launch",
+            "mainClass": "Duplicate_numbers",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_number_of_infected_houses",
+            "request": "launch",
+            "mainClass": "Arrays.Sorting.Minimum_number_of_infected_houses",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
+            "name": "Find_all_numbers_disappered",
+            "request": "launch",
+            "mainClass": "Arrays.Sorting.Find_all_numbers_disappered",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Missing_number",
             "request": "launch",
             "mainClass": "Arrays.Sorting.Missing_number",
