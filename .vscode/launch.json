@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Palin_String",
+            "request": "launch",
+            "mainClass": "Arrays.String.Palin_String",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
+            "name": "String_performance",
+            "request": "launch",
+            "mainClass": "Arrays.String.String_performance",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
+            "name": "Pretty_printing",
+            "request": "launch",
+            "mainClass": "Arrays.String.Pretty_printing",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
+            "name": "Stringequalsmethod",
+            "request": "launch",
+            "mainClass": "Arrays.String.Stringequalsmethod",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Stringcomparison2",
             "request": "launch",
             "mainClass": "Arrays.String.Stringcomparison2",
