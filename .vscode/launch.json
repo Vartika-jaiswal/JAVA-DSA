@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stream",
+            "request": "launch",
+            "mainClass": "Recursion.String.Stream",
+            "projectName": "100-days-java-challenge_68663639"
+        },
+        {
+            "type": "java",
             "name": "Steps_to_reduce_a_number_of_steps_to_zero",
             "request": "launch",
             "mainClass": "Recursion.Steps_to_reduce_a_number_of_steps_to_zero",
