@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Missing_number",
+            "request": "launch",
+            "mainClass": "Arrays.Sorting.Missing_number",
+            "projectName": "JAVA-DSA_e0135fb6"
+        },
+        {
+            "type": "java",
+            "name": "Insertion_sort",
+            "request": "launch",
+            "mainClass": "Arrays.Sorting.Insertion_sort",
+            "projectName": "JAVA-DSA_e0135fb6"
+        },
+        {
+            "type": "java",
+            "name": "anonymous_array_sum",
+            "request": "launch",
+            "mainClass": "anonymous_array_sum",
+            "projectName": "JAVA-DSA_e0135fb6"
+        },
+        {
+            "type": "java",
             "name": "skipapplestring",
             "request": "launch",
             "mainClass": "Recursion.String.skipapplestring",
