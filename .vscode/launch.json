@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Steps_to_reduce_a_number_of_steps_to_zero",
+            "request": "launch",
+            "mainClass": "Recursion.Steps_to_reduce_a_number_of_steps_to_zero",
+            "projectName": "JAVA-DSA_e0135fb6"
+        },
+        {
+            "type": "java",
             "name": "Missing_number",
             "request": "launch",
             "mainClass": "Arrays.Sorting.Missing_number",
