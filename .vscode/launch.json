@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QueueUsingStacks",
+            "request": "launch",
+            "mainClass": "Arrays.Stacksandqueues.QueueUsingStacks",
+            "projectName": "JAVA-DSA_e0135fb6"
+        },
+        {
+            "type": "java",
+            "name": "binarysearch_in_2D_array",
+            "request": "launch",
+            "mainClass": "Arrays.Binary_search.binarysearch_in_2D_array",
+            "projectName": "JAVA-DSA_e0135fb6"
+        },
+        {
+            "type": "java",
+            "name": "Arranging_Coins2",
+            "request": "launch",
+            "mainClass": "Arrays.Binary_search.Arranging_Coins2",
+            "projectName": "JAVA-DSA_e0135fb6"
+        },
+        {
+            "type": "java",
+            "name": "Duplicate_numbers",
+            "request": "launch",
+            "mainClass": "Duplicate_numbers",
+            "projectName": "JAVA-DSA_e0135fb6"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOPS.Main",
+            "projectName": "JAVA-DSA_e0135fb6"
+        },
+        {
+            "type": "java",
             "name": "Steps_to_reduce_a_number_of_steps_to_zero",
             "request": "launch",
             "mainClass": "Recursion.Steps_to_reduce_a_number_of_steps_to_zero",
